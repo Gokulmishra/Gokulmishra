@@ -19,9 +19,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gokulbm)
 
 ---
+### I'm listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=wi10pkaqvhm2hzejo377bua6w&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=wi10pkaqvhm2hzejo377bua6w&cover_image=true&theme=default&bar_color=4e93b1&bar_color_cover=false)])]
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -47,9 +50,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Gokulmishra&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulmishra&layout=compact&theme=radical)]
 
 ---
 
