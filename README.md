@@ -10,14 +10,18 @@
 
 ### : &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India recently completed my Btech In CSE.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
+- 🔭 I’m working as an Co/Op Intern and on learning phase in Machine , Deep Learning and Generative AI.
+- 🌱 Exploring latest Technologies and Trends.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gokulbm)
 
 ---
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+[![@gokulmishra's Holopin board](https://holopin.me/gokulmishra)](https://holopin.io/@gokulmishra)
 ### I'm listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=wi10pkaqvhm2hzejo377bua6w&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=wi10pkaqvhm2hzejo377bua6w&cover_image=true&theme=default&bar_color=4e93b1&bar_color_cover=false)])]
@@ -43,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-[![@gokulmishra's Holopin board](https://holopin.me/gokulmishra)](https://holopin.io/@gokulmishra)
+
 
 ---
 
