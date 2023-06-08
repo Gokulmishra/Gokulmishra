@@ -19,7 +19,7 @@ I am a Student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-[![image](https://github.com/Gokulmishra/Gokulmishra/assets/67966130/e43a2dab-53ec-49ab-9341-e0610c008054)]([http://www.credly.com/badges/373897a6-2e76-4626-b3f7-a9a191c41774](https://www.credly.com/users/gokul-ballava-mishra) "Badges Earned ")
+[![image](https://github.com/Gokulmishra/Gokulmishra/assets/67966130/e43a2dab-53ec-49ab-9341-e0610c008054)](https://www.credly.com/users/gokul-ballava-mishra) 
 
 
 [![@gokulmishra's Holopin board](https://holopin.me/gokulmishra)](https://holopin.io/@gokulmishra)
