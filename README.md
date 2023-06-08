@@ -14,12 +14,11 @@ I am a Student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 🔭 I’m working as an Co/Op Intern and on learning phase in Machine , Deep Learning and Generative AI.
 - 🌱 Exploring latest Technologies and Trends.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gokulbm)
+- ⚡ Love to travel , explore and watch sci-fi movies like HER, Interstellar.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gokulbm-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gokulbm)
 
 ---
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+[![@gokulmishra's Credly board](https://www.credly.com/badges/3fe7fa52-8d88-4e8a-9ea8-ebceece1a662/public_url)](https://www.credly.com/badges/3fe7fa52-8d88-4e8a-9ea8-ebceece1a662/public_url)
 
 [![@gokulmishra's Holopin board](https://holopin.me/gokulmishra)](https://holopin.io/@gokulmishra)
 ### I'm listening to:
