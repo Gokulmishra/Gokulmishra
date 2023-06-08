@@ -21,11 +21,10 @@ I am a Student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![image](https://github.com/Gokulmishra/Gokulmishra/assets/67966130/e9e5d861-f0d8-492b-a311-027f1afa4f59)(https://www.credly.com/users/gokul-ballava-mishra) 
 
-https://www.linkedin.com/posts/gokulbm_winners-hackathon-codebases-activity-7071472325317074946-z6ql?utm_source=share&utm_medium=member_desktop
 [![@gokulmishra's Holopin board](https://holopin.me/gokulmishra)](https://holopin.io/@gokulmishra)
 ### I'm listening to:
 
-&nbsp&nbsp&nbsp [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=wi10pkaqvhm2hzejo377bua6w&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=wi10pkaqvhm2hzejo377bua6w&cover_image=true&theme=default&bar_color=4e93b1&bar_color_cover=false)])]
+###&nbsp &nbsp &nbsp [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=wi10pkaqvhm2hzejo377bua6w&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=wi10pkaqvhm2hzejo377bua6w&cover_image=true&theme=default&bar_color=4e93b1&bar_color_cover=false)])]
 
 ### 🛠 &nbsp;Languages and Tools :
 
